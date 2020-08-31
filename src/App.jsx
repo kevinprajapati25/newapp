@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "./Navbar";
 import "./index.css";
-import {Switch,Route} from 'react-router-dom';
+import {Switch,Route,Redirect} from 'react-router-dom';
 import Home from './component/Home';
 import About from './component/About';
 import Service from './component/Service';
