@@ -51,17 +51,17 @@ const Navbar = () => {
              
             </li>
             <li className="nav-item">
-              <NavLink exact activeClassName="active2" className="nav-link" to="/about">
+              <NavLink  activeClassName="active2" className="nav-link" to="/about">
                 About
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink exact activeClassName="active3" className="nav-link" to="/service">
+              <NavLink  activeClassName="active3" className="nav-link" to="/service">
                 Services
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink exact activeClassName="active4" className="nav-link" to="/contact">
+              <NavLink  activeClassName="active4" className="nav-link" to="/contact">
                 Contact Us
               </NavLink>
             </li>
